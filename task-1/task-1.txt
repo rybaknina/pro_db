@@ -1,0 +1,13 @@
+postgres=# SHOW server_version;
+           server_version
+-------------------------------------
+ 14.6 (Ubuntu 14.6-0ubuntu0.22.04.1)
+(1 row)
+
+postgres=# help
+You are using psql, the command-line interface to PostgreSQL.
+Type:  \copyright for distribution terms
+       \h for help with SQL commands
+       \? for help with psql commands
+       \g or terminate with semicolon to execute query
+       \q to quit
