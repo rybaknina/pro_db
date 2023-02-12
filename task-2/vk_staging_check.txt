@@ -1,0 +1,6 @@
+ id | first_name | last_name |                 email                 |     phone      | main_photo_id |     created_at
+----+------------+-----------+---------------------------------------+----------------+---------------+---------------------
+  1 | Halla      | Humphrey  | nunc.sed@yahoo.org                    | 1-305-336-8436 |            13 | 2022-02-27 01:58:49
+  2 | Vera       | Graves    | nec.quam@outlook.couk                 | 1-247-716-8816 |             4 | 2022-12-29 19:20:21
+  3 | Ethan      | Park      | fermentum.convallis.ligula@icloud.net | 1-655-811-2062 |            15 | 2023-02-25 04:35:57
+(3 rows)

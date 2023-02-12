@@ -1,0 +1,14 @@
+-- Таблица подписки
+CREATE TABLE subscription (
+  id SERIAL PRIMARY KEY,
+  user_id INT NOT NULL,
+  subscribed_to_id INT NOT NULL,
+  type_id INT NOT NULL,
+  created_at TIMESTAMP
+);
+
+-- Таблица типов подписчиков
+CREATE TABLE subscription_types (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(30) UNIQUE
+);
